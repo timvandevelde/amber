@@ -232,9 +232,9 @@ p.list-item {padding: 30px;}
 /*********** MENU *********/
 
 .menu-description       { width: 215px; height: 126px; background: #111; color: #fff; z-index: -1; position: absolute; }
-.menu-description p     { padding: 0px 15px 10px 15px; color: #666; font-size: 11px; color: #888;}
-.menu-description h3    { padding: 20px 15px 5px 15px; font-size: 18px; letter-spacing: 1px;}
-.menu-description h4    { margin: 0px 15px 0px 15px; padding: 10px 0px; font-size: 9px; color: #666; width: 175px; border-top: 1px dashed #333; }
+.menu-description p     { padding: 0px 20px 5px 20px; color: #666; font-size: 11px; color: #666;}
+.menu-description h3    { padding: 20px 20px 5px 20px; font-size: 16px; letter-spacing: 1px; color: #aaa;}
+.menu-description h4    { margin: 0px 20px 0px 20px; padding: 5px 0px 10px 0px; font-size: 9px; color: #444; width: 175px; }
 
 
 /*********** THUMBS *******/ 
